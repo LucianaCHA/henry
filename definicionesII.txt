@@ -1,0 +1,6 @@
+for, es una instruccion que indica que se va a llevar adelante un proceso repetitivo sobre un dato (bucle). Queda definido por 3 condiciones : 
+	1) la inicial es decir desde dónde empieza el blucle, o qué condición debe cumplir el dato para entrar en proceso. 
+	2) Hasta cuándo se realiza el bucle, es decir se va a adefinir una condición que una vez alcanzada indique la parada del bucle.
+	3) El proceso, es decir qué cambio en cada pasada del bucle. por ej i++ indica incrementar en 1 un numero
+&& es un operador lógico, significa ANDeindica que dos condiciones deben cumplirse simultaneamente para que la expresión sea verdadera
+|| operador lógico OR. Se coloca enytre dos premisas y basta que solo una se cumpla para que la expresión se evalue como true
