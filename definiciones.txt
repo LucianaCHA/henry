@@ -1,0 +1,7 @@
+Definiciones 02 js I
+Variables: son elementos nombrados que identifican los datos con los que trabajan luego los prgramas.
+Hay varios tipos de datos, pueden ser 
+Strings: es texto
+Funciones: son instrucciones que indican que hacer con los datos . Es como si fuese una caja donde ´´entra ´´ un elemento o dato, se opera con él y ´´sale´´ algo transformado. Esto es posible siempre que el dato ingresado sea operable por la función.
+Declaración 'if' es una condición requerida. Por ejemplo indica que si un dato cumple con cierta condición pasará algo (puede que corra o frene un proceso)
+Boleano: Son un tipo de elemnto que solo puede tomar dos valores true o false. Puede vincularse a la declaración if, tal que si la condición se cumple el sistema devuelva TRUE, en caso contrario: FALSE.
