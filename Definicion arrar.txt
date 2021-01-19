@@ -1,0 +1,1 @@
+ARRAY: es una lista, que puede contener datos, funciones objetos.
